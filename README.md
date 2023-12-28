@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
 <h3 align="center">I'm an enthusiastic and passionate MERN Stack Developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **Social media app**
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://tnvr-portfolio.netlify.app/](https://tnvr-portfolio.netlify.app/)
