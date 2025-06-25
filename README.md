@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently deepening my knowledge of **React.js** and **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://tnvr-portfolio.netlify.app/](https://tnvr-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tnvr-portfolio.netlify.app/](https://kazi-tanvir-folio.vercel.app/)
 
 - 💬 Ask me about **React.js** and **Next.js**
 
