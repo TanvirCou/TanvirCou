@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React.js** and **Next.js**
 
-- 📫 How to reach me **ahmed.tnvr999@gmail.com**
+- 📫 How to reach me **kazi.tanvir.cou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
