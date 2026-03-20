@@ -1,4 +1,4 @@
-![Frontend developer.](https://i.ibb.co.com/vC6CYsJ0/resized-cover-1584x396.png)
+![Frontend developer.](https://i.postimg.cc/ZRq96Gy6/banner.png)
 <h1 align="center">Hi 👋, I'm Kazi Tanvir Ahmed</h1>
 <h3 align="center">I'm an enthusiastic and passionate Frontend Developer from Bangladesh.</h3>
 
