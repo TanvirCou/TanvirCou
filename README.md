@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kazi Tanvir Ahmed</h1>
 <h3 align="center">Full Stack Developer focused on building scalable, production-ready web applications using React, Next.js, TypeScript, and Node.js.</h3>
 
-- 🚀 Full Stack Developer focused on building scalable web and AI-powered applications
+- 🚀 Building web and AI-powered applications with modern full-stack technologies
 
 - 🌱 Exploring advanced full-stack architecture, AI integrations, and cloud-native development
 
