@@ -70,6 +70,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a>
 
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>
+</a>
+
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
@@ -79,7 +83,7 @@
 </a>
 
 <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/pinecone" alt="pinecone" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/1dfae1d8-7d3e-4e02-b6d4-46409a9de502" alt="pinecone" width="40" height="40"/>
 </a>
 
 <!-- DevOps / Cloud -->
@@ -91,14 +95,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
 
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/githubactions" alt="github-actions" width="40" height="40"/>
-</a>
-
 <!-- Tools -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
 
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40"/>
