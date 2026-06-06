@@ -82,10 +82,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
 </a>
 
-<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/1dfae1d8-7d3e-4e02-b6d4-46409a9de502" alt="pinecone" width="40" height="40"/>
-</a>
-
 <!-- DevOps / Cloud -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
